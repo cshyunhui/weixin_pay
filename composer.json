@@ -1,0 +1,19 @@
+{
+    "name": "cshyunhui/weixin_pay",
+    "description": "weixin oper libaray function",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.1",
+    "authors": [
+        {
+            "name": "Cshyunhui",
+            "email": "cshyunhui@126.com"
+        }
+    ],
+    "require": {
+        "php": "* 5.6"
+    },
+    "autoload": {
+        "psr-0": {"Pay": ""}
+    }
+}
